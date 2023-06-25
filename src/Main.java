@@ -39,3 +39,5 @@ public class Main {
         ReverseWord.reverseWord(str);
     }
 }
+//input="hell0 world I am java"
+//output=0lleh dlrow I ma avaj.
